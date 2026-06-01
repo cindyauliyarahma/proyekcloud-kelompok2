@@ -52,7 +52,7 @@ app.get('/', (req, res) => {
         </main>
     `);
 
-    res.write(`<footer class="text-center py-8 text-xs text-slate-400 bg-white mt-20 border-t border-slate-100">&copy; 2026 Kelompok 2 - Tugas Teknologi Cloud Computing.</footer></body></html>`);
+    res.write(`<footer class="text-center py-8 text-xs text-slate-400 bg-white mt-20 border-t border-slate-100">&copy; 2026 Kelompok 2 - Tugas Proyek Cloud Computing.</footer></body></html>`);
     res.end();
 });
 
