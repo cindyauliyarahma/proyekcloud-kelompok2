@@ -1,4 +1,4 @@
-# Gunakan Node.js versi resmi sebagai base image
+ # Gunakan Node.js versi resmi sebagai base image
 FROM node:18-alpine
 
 # Tentukan folder kerja di dalam kontainer
