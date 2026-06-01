@@ -39,7 +39,7 @@ app.get('/', (req, res) => {
                             </tr>
                         </thead>
                         <tbody class="text-sm divide-y divide-slate-100">
-                            <tr><td class="py-4 px-4 font-medium text-slate-900">Cindy Aulia Rahma</td><td class="py-4 px-4 text-slate-600">Cloud Architecture & CI/CD Setup</td></tr>
+                            <tr><td class="py-4 px-4 font-medium text-slate-900">Cindy Auliya Rahma</td><td class="py-4 px-4 text-slate-600">Cloud Architecture & CI/CD Setup</td></tr>
                             <tr><td class="py-4 px-4 font-medium text-slate-900">Muhammad Khairi Lubis</td><td class="py-4 px-4 text-slate-600">Docker Containerization (Dockerfile)</td></tr>
                             <tr><td class="py-4 px-4 font-medium text-slate-900">Rangga Permana Sanjaya</td><td class="py-4 px-4 text-slate-600">Frontend UI/UX Optimization</td></tr>
                             <tr><td class="py-4 px-4 font-medium text-slate-900">Arif Maulana</td><td class="py-4 px-4 text-slate-600">Backend API Development</td></tr>
